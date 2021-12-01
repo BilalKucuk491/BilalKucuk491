@@ -2,6 +2,7 @@
 <img src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif" align="right" width="400" height="250" > 
 Hi there 👋 , I'm Bilal. 😊
 
+<pr></pr>
 ⚡ I have an interest in game development for a year.
 
 ## Game Developer 
