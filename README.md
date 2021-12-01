@@ -1,6 +1,6 @@
 ### 
 <img src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif" align="right" width="400" height="250" > 
-Hi there ,I'm Bilal. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30ptx"> 
+Hi there , <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30ptx"> I'm Bilal. 😊 
 
 <pr></pr>
 
