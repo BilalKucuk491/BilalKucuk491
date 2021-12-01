@@ -20,7 +20,6 @@ Coffee ☕ is how I keep up with  < code />
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ">
 <a/>
 
-  <pr></pr>
     <pr></pr>
 <a href="https://www.linkedin.com/in/bilal-k%C3%BC%C3%A7%C3%BCk-3529391a1/" rel ="nofollow" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ">
