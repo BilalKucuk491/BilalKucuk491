@@ -9,4 +9,6 @@ Coffee ☕ is how I keep up with  < code />
 
 ## Reach out to me 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">[https://www.linkedin.com/in/bilal-k%C3%BC%C3%A7%C3%BCk-3529391a1/]
+
+
