@@ -17,8 +17,7 @@ Coffee ☕ is how I keep up with  < code />
 <pr></pr>
 
 <a href="https://www.instagram.com/info.programlama/" rel ="nofollow" >
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ">
 <a/>
 
 
