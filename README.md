@@ -7,7 +7,7 @@ Hi there , I'm Bilal. 😊
 
 ⚡ I have an interest in game development for a year.
 
-## Game Developer 
+## Game Developer | Instagram Content Creator
 
 Coffee ☕ is how I keep up with  <code> < code/></code>
 
