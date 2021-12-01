@@ -2,6 +2,8 @@
 <img src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif" align="right" width="400" height="250" > 
 Hi there 👋 , I'm Bilal. 😊
 
+⚡ I have an interest in game development for a year.
+
 ## Game Developer 
 
 Coffee ☕ is how I keep up with  < code />
