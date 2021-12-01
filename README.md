@@ -7,7 +7,7 @@ Hi there 👋 , I'm Bilal. 😊
 
 ## Game Developer 
 
-Coffee ☕ is how I keep up with  '< code'/>
+Coffee ☕ is how I keep up with  < code/>
 
 
 ## Reach out to me 
