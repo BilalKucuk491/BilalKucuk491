@@ -14,13 +14,13 @@ Coffee ☕ is how I keep up with  < code />
 <img width ="120" height ="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ">
 <a/>
   
-<pr></pr>
+
 
 <a href="https://www.youtube.com/channel/UCKEE4YqCmIWqpczk0L9WqYQ" rel ="nofollow" >
 <img  width ="120" height ="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white ">
 <a/>
   
-<pr></pr>
+
   
 <a href="https://www.instagram.com/info.programlama/" rel ="nofollow" >
 <img  width ="120" height ="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ">
