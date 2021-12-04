@@ -1,5 +1,5 @@
 ### 
-<img src="https://media.giphy.com/media/tNB5bIu3E5Z0EYEMP5/giphy.gif" align="right" width="300" height="300" > 
+<img src="https://media.giphy.com/media/tNB5bIu3E5Z0EYEMP5/giphy.gif" align="right" width="500" height="415" > 
 Hi there , I'm Bilal. 😊 
 
 <pr></pr>
