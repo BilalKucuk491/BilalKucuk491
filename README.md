@@ -5,7 +5,7 @@ Hi there , I'm Bilal. 😊
 <pr></pr>
 
 
-⚡ I have an interest in game development for a year.
+I have an interest in game development for a year.
 
 ## Game Developer | Instagram Content Creator
 
