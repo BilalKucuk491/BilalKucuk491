@@ -5,9 +5,7 @@ Hi there , I'm Bilal. 😊
 <pr></pr>
 
 
-🎮 I have  in game development for a year.
-
-## Game Developer | Instagram Content Creator
+## Javascript Developer | Instagram Content Creator
 
 Coffee ☕ is how I keep up with  <code> < code/></code>
 
