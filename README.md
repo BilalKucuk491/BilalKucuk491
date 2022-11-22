@@ -6,7 +6,7 @@ Hi there , I'm Bilal. 😊
 
 
 ## Javascript/Typescript Developer ||
-Instagram Content Creator
+## Instagram Content Creator
 
 ## Reach out to me 
 
