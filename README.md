@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Development**
 - 🌱 I’m currently learning **React & Nodejs**
-- ❤️ Fun fact: I love **batminton & video games **
+- ⚡ Fun fact: I ❤️ **batminton & video games **
 
 
 ### Connect with me:
