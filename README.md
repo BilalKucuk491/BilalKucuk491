@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bilal Küçük</h1>
 <h3 align="center">React-Native Developer</h3>
 
-- 🌱 I’m currently learning **React-Native,Jotai,Node.js**
+- 🌱 I’m currently learning **React-Native,Javascript,Typescript,Node.js**
 
-- 📫 How to reach me **buqraoner@gmail.com**
+- 📫 How to reach me **bilalkucuk070@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
