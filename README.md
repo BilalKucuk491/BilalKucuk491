@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently working on **Full-Stack Development**
-- 🌱 I’m currently learning **Go & Vue.js**
-- ⚡ Fun fact: I love **snowboarding & caving**
+- 🌱 I’m currently learning **React & Nodejs**
+- ⚡ Fun fact: I love **batminton & video games**
 
 ### Connect with me:
 <p align="left"> 
