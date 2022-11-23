@@ -10,10 +10,10 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/buqraoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buqraoner" height="30" width="40" /></a>
-<a href="https://instagram.com/buqraoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buqraoner" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/boletroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="boletroy" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/13675578/nidadinch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18108931" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bilal-k%C3%BC%C3%A7%C3%BCk-3529391a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buqraoner" height="30" width="40" /></a>
+<a href="https://www.instagram.com/info.programlama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buqraoner" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="boletroy" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/13517516/bilal-kucuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18108931" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
