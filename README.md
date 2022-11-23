@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Küçük</h1>
-<h3 align="center">React Native Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **React-Native,Javascript,Typescript,Node.js**
 
