@@ -16,6 +16,3 @@
  </p>
 
 
-<p><img align="left" width="230" src="" alt="bilalkucuk" /></p>
-
-<p>&nbsp;<img align="center" width="275" src="" alt="bilalkucuk" /></p>
