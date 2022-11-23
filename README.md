@@ -12,13 +12,11 @@
 <a href="https://www.linkedin.com/in/bilal-k%C3%BC%C3%A7%C3%BCk-3529391a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="13198517" width="26" /></a>
  <a href="https://stackoverflow.com/users/13675578/nidadinch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18108931" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nidadinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nidadinch" height="30" width="40" /></a>
-<a href="https://medium.com/@nidadinc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="nidadinch" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
 
-<img align="left" alt="go" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+
 <img align="left" alt="javascript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
 <img align="left" alt="MongoDB" width="30px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
