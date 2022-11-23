@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bilal-k%C3%BC%C3%A7%C3%BCk-3529391a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buqraoner" height="30" width="40" /></a>
-<a href="https://www.instagram.com/info.programlama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buqraoner" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bilal-k%C3%BC%C3%A7%C3%BCk-3529391a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalkucuk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/info.programlama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilalkucuk" height="30" width="40" /></a>
 
  
 <h3 align="left">Languages and Tools:</h3>
@@ -16,6 +16,6 @@
  </p>
 
 
-<p><img align="left" width="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=buqraoner&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="buqraoner" /></p>
+<p><img align="left" width="230" src="" alt="bilalkucuk" /></p>
 
-<p>&nbsp;<img align="center" width="275" src="https://github-readme-stats.vercel.app/api?username=buqraoner&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="buqraoner" /></p>
+<p>&nbsp;<img align="center" width="275" src="" alt="bilalkucuk" /></p>
