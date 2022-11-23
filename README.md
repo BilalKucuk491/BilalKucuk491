@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">I'm a Life Long Learner and Developer!</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BilalKucuk491&color=ffa500" alt="nidadinch" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BilalKucuk491&color=87CEEB" alt="nidadinch" /> </p>
 
 
 - 🔭 I’m currently working on **Full-Stack Development**
